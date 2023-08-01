@@ -1,6 +1,6 @@
 # shima.shafiee.DP-Site
 # DP-Site
-** Sequence-based prediction of protein-peptide residue-level interaction using a dual deep learning-based method. **\
+** Sequence-based prediction of protein-peptide residue-level interaction using a dual deep learning-based method. **
 
 Please cite the relevant publication if you will use this work.
 
