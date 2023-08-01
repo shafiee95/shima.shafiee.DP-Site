@@ -206,8 +206,7 @@ plt.show()
 data_image=np.concatenate((x_train_image,x_test_image),axis=0)
 lbl_new=np.concatenate((lbl_new_train,lbl_new_test),axis=0)
 
-
-#/*************************************************/
+***************************************************
 
 
 
