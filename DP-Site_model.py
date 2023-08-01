@@ -5,7 +5,7 @@
 # Shima Shafiee
 # shafiee.shima@razi.ac.ir
 ###################################
-"""Processing for predicting Peptide-binding residues"""
+"""Processing for predicting protein-peptide binding residues"""
 # get all library version
 import tensorflow as tf
 import numpy as np
