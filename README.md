@@ -1,8 +1,5 @@
 # shima.shafiee.DP-Site
-The interaction between proteins and peptides is a significantly crucial biological phenomenon as it assumes a key function in various cellular processes even in anomalous cellular behaviors (i.e.cancer).
-
-
-
+The interaction between proteins and peptides is a significantly crucial biological phenomenon as it assumes a key function in various cellular processes even in anomalous cellular behaviors (i.e.cancer).Existing experimental methods for predicting protein-peptide are laborious and expensive. In this regard, we have established a dual deep learning-based approach named DP-Site which employes sequence-based, physicochemical properties as well as an evolution-driven sequence profile from primary protein sequences.
 
 # DP-Site
 ** Sequence-based prediction of protein-peptide residue-level interaction using a dual deep learning-based method. **
